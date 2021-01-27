@@ -12,12 +12,11 @@ body{
     background-image: url(Background2.jpg);
     background-position: center center;
     background-size: cover;
-    max-height: fit-content;
 }
 
 #employeeimages{
     border-radius: 50%;
-    height: 10%;
+    height: 20%;
     width: auto;
 }
 
@@ -46,6 +45,3 @@ blockquote{
     color: gold;
 }
 
-#linkColumns{
-    margin-bottom: 0;
-}
