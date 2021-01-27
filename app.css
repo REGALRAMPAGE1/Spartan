@@ -1,0 +1,51 @@
+#homenav:hover, #aboutnav:hover, #productsnav:hover, #contactnav:hover{
+    color:gold;
+}
+
+#homenav, #aboutnav, #productsnav, #contactnav{
+    color:white;
+}
+
+
+body{
+    color:gold;
+    background-image: url(Background2.jpg);
+    background-position: center center;
+    background-size: cover;
+    max-height: fit-content;
+}
+
+#employeeimages{
+    border-radius: 50%;
+    height: 10%;
+    width: auto;
+}
+
+#table{
+    color: gold;
+}
+
+#linkfollow{
+    color: gold;
+}
+
+#linkfollor:hover{
+    color: maroon;
+}
+
+blockquote{
+    text-align: right;
+}
+
+#imagerow{
+    height: 300px;
+    column-width: auto;
+}
+
+#navbrand{
+    color: gold;
+}
+
+#linkColumns{
+    margin-bottom: 0;
+}
